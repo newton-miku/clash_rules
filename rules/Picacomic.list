@@ -1,3 +1,26 @@
 ## >> picacomic
-DOMAIN-SUFFIX,picaapi.picacomic.com
 #DOMAIN-KEYWORD,picacomic
+DOMAIN-SUFFIX,picaapi.picacomic.com
+DOMAIN-SUFFIX,s3.picacomic.com
+DOMAIN-SUFFIX,storage-b.picacomic.com
+DOMAIN-SUFFIX,img.picacomic.com
+
+DOMAIN-SUFFIX,in.appcenter.ms
+#此处的appcenter为pica底部Tab栏游戏
+
+DOMAIN-SUFFIX,pica-web.wakamoment.tk
+DOMAIN-SUFFIX,pica-pica.wikawika.xyz
+#小程序及聊天室
+
+DOMAIN-SUFFIX,av.wikawika.xyz
+DOMAIN-SUFFIX,image.airav.live
+#小电影相关
+
+DOMAIN-SUFFIX,online-shop-api.wikawika.xyz
+#商店
+DOMAIN-SUFFIX,h.wikawika.xyz
+#小里番
+DOMAIN-SUFFIX,pgalgame.com
+DOMAIN-SUFFIX,game.wikawika.xyz
+DOMAIN-SUFFIX,wikawika.xyz
+#懒，就只查了这点，其余的如果不够用可以直接匹配几个根域名
