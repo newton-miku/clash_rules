@@ -3,6 +3,14 @@
 #建议使用netch或者游戏加速器
 
 IP-CIDR,35.168.149.0/24,no-resolve
+
+IP-CIDR,23.251.100.0/24,no-resolve
+IP-CIDR,52.197.77.0/24,no-resolve
+IP-CIDR,68.169.42.0/24,no-resolve
+IP-CIDR,204.74.224.0/24,no-resolve
+IP-CIDR,155.133.253.0/24,no-resolve
+IP-CIDR,146.66.152.0/24,no-resolve
+
 IP-CIDR,52.37.234.0/24,no-resolve
 IP-CIDR,54.189.213.0/24,no-resolve
 IP-CIDR,54.211.231.0/24,no-resolve
@@ -44,7 +52,7 @@ IP-CIDR,64.95.100.0/24,no-resolve
 IP-CIDR,146.148.120.0/24,no-resolve
 IP-CIDR,104.155.80.0/24,no-resolve
 IP-CIDR,130.211.51.0/24,no-resolve
-IP-CIDR, 52.58.81.0/24,no-resolve
+IP-CIDR,52.58.81.0/24,no-resolve
 IP-CIDR,52.59.121.0/24,no-resolve
 IP-CIDR,69.88.135.0/24,no-resolve
 IP-CIDR,104.155.233.0/24,no-resolve
@@ -111,7 +119,8 @@ IP-CIDR,52.67.92.122/32,no-resolve
 IP-CIDR,52.67.31.204/32,no-resolve
 
 #Hong Kong
-IP-CIDR,61.4.123.23/32,no-resolve
+#IP-CIDR,61.4.123.23/32,no-resolve
+IP-CIDR,61.4.123.23/24,no-resolve
 #Taiwan - GCE 1
 IP-CIDR,104.155.233.79/32,no-resolve
 #Taiwan - GCE 2
