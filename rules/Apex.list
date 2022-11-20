@@ -71,3 +71,68 @@ IP-CIDR,34.193.166.0/24,no-resolve
 IP-CIDR,52.24.209.0/24,no-resolve
 IP-CIDR,109.169.84.0/24,no-resolve
 IP-CIDR,52.214.77.0/24,no-resolve
+
+#以下为apex官方服务器列表中的IP
+#来自https://r5-pc.s3.amazonaws.com/datacenters_v3_english.txt
+#London
+IP-CIDR,217.147.89.101/32,no-resolve
+#Amsterdam
+IP-CIDR,64.95.100.189/32,no-resolve
+#Belgium - GCE 1
+IP-CIDR,146.148.120.92/32,no-resolve
+#Belgium - GCE 2
+IP-CIDR,104.155.80.155/32,no-resolve
+#Belgium - GCE 3
+IP-CIDR,130.211.51.110/32,no-resolve
+#Frankfurt 1
+IP-CIDR,52.58.81.34/32,no-resolve
+IP-CIDR,52.59.121.244/32,no-resolve
+IP-CIDR,107.150.147.67/32,no-resolve
+IP-CIDR,104.196.43.45/32,no-resolve
+IP-CIDR,35.196.104.104/32,no-resolve
+IP-CIDR,104.196.8.33/32,no-resolve
+IP-CIDR,52.6.64.33/32,no-resolve
+IP-CIDR,52.86.226.95/32,no-resolve
+IP-CIDR,148.72.171.218/32,no-resolve
+IP-CIDR,63.251.239.123/32,no-resolve
+IP-CIDR,130.211.193.234/32,no-resolve
+IP-CIDR,104.197.17.180/32,no-resolve
+IP-CIDR,104.197.136.10/32,no-resolve
+IP-CIDR,104.197.42.178/32,no-resolve
+IP-CIDR,107.182.233.168/32,no-resolve
+IP-CIDR,104.198.102.93/32,no-resolve
+IP-CIDR,104.198.101.253/32,no-resolve
+IP-CIDR,52.40.240.176/32,no-resolve
+IP-CIDR,52.42.44.79/32,no-resolve
+IP-CIDR,177.54.152.31/32,no-resolve
+IP-CIDR,35.199.89.186/32,no-resolve
+IP-CIDR,35.199.73.98/32,no-resolve
+IP-CIDR,52.67.92.122/32,no-resolve
+IP-CIDR,52.67.31.204/32,no-resolve
+
+#Hong Kong
+IP-CIDR,61.4.123.23/32,no-resolve
+#Taiwan - GCE 1
+IP-CIDR,104.155.233.79/32,no-resolve
+#Taiwan - GCE 2
+IP-CIDR,104.199.182.138/32,no-resolve
+#Singapore 1
+IP-CIDR,72.5.161.228/32,no-resolve
+#Singapore 2
+IP-CIDR,35.185.189.243/32,no-resolve
+#Tokyo
+IP-CIDR,35.185.189.104/32,no-resolve
+IP-CIDR,161.202.72.179/32,no-resolve
+IP-CIDR,104.198.82.36/32,no-resolve
+IP-CIDR,104.198.82.65/32,no-resolve
+IP-CIDR,104.198.88.214/32,no-resolve
+IP-CIDR,52.69.157.152/32,no-resolve
+IP-CIDR,52.197.77.217/32,no-resolve
+
+IP-CIDR,15.185.47.239/32,no-resolve
+IP-CIDR,15.185.93.241/32,no-resolve
+IP-CIDR,27.50.72.162/32,no-resolve
+IP-CIDR,35.197.166.13/32,no-resolve
+IP-CIDR,35.201.19.135/32,no-resolve
+IP-CIDR,52.63.136.88/32,no-resolve
+IP-CIDR,13.54.193.120/32,no-resolve
