@@ -136,3 +136,7 @@ IP-CIDR,35.197.166.13/32,no-resolve
 IP-CIDR,35.201.19.135/32,no-resolve
 IP-CIDR,52.63.136.88/32,no-resolve
 IP-CIDR,13.54.193.120/32,no-resolve
+
+#以下为关键字
+DOMAIN-SUFFIX,respawn.com
+DOMAIN-SUFFIX,s3.amazonaws.com
