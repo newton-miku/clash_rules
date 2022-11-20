@@ -145,7 +145,7 @@ IP-CIDR,35.197.166.13/32,no-resolve
 IP-CIDR,35.201.19.135/32,no-resolve
 IP-CIDR,52.63.136.88/32,no-resolve
 IP-CIDR,13.54.193.120/32,no-resolve
-
+#注意，目前仅添加ip可进入游戏大厅，但无法加入对战，匹配域名后无法进入大厅
 #以下为关键字
 DOMAIN-KEYWORD,respawn
 DOMAIN-SUFFIX,respawn.com
