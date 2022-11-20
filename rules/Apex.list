@@ -147,5 +147,21 @@ IP-CIDR,52.63.136.88/32,no-resolve
 IP-CIDR,13.54.193.120/32,no-resolve
 
 #以下为关键字
+DOMAIN-KEYWORD,respawn
 DOMAIN-SUFFIX,respawn.com
 DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,stryder.respawn.com
+
+DOMAIN,r5-pc.stryder.respawn.com
+DOMAIN,r5-steam.stryder.respawn.com
+DOMAIN,r5-x1.stryder.respawn.com  
+DOMAIN,r5-ps4.stryder.respawn.com
+DOMAIN,cdn.registerdisney.go.com
+DOMAIN,r5-pc-dev.stryder.respawn.com 
+DOMAIN,r5-steam-dev.stryder.respawn.com
+DOMAIN,r5-ps4-dev.stryder.respawn.com
+DOMAIN,r5-crossplay.r5prod.stryder.respawn.com
+DOMAIN,r5-assets.stryder.respawn.com
+DOMAIN,r5-pc-stats.stryder.respawn.com
+DOMAIN,r5-pc-stats-dev.stryder.respawn.com
+DOMAIN,admin.respawn.com
