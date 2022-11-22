@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,respawn.com
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,stryder.respawn.com
 
+DOMAIN,r5-pc.s3.amazonaws.com
 DOMAIN,r5-pc.stryder.respawn.com
 DOMAIN,r5-steam.stryder.respawn.com
 DOMAIN,r5-x1.stryder.respawn.com  
