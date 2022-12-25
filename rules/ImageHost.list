@@ -3,6 +3,7 @@
 #以下为国外图床和视频床
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,imgur.com
+#DOMAIN-SUFFIX,postimg.cc
 
 #以下为coser图网
 DOMAIN-SUFFIX,cosersets.com
