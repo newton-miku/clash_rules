@@ -1,1 +1,20 @@
+// 关于 OpenAI, ChatGPT 的
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,js.intercomcdn.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,pay.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,stripe.com
+DONAIN-SUFFIX,statsigapi.net
+DOMAIN,cdn.auth0.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,challenges.cloudflare.com
